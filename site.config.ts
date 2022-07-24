@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'mklz\'s Blog',
+  name: 'mklz_blog',
   domain: 'https://humane-universe-f71.notion.site/Blog-771b682dd5364775a04f2f853541eaa9',
   author: 'mklz',
 
