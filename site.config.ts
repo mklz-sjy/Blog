@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '个人工作主页',
-  domain: 'https://humane-universe-f71.notion.site/Notes-91d9e863f7854a7aad8fbcd7aded4d4f',
+  name: 'mklz\'s Blog',
+  domain: 'https://humane-universe-f71.notion.site/Blog-771b682dd5364775a04f2f853541eaa9',
   author: 'mklz',
 
   // open graph metadata (optional)
